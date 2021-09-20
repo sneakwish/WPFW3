@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Visual Code projects/1.0.0": {
+        "runtime": {
+          "Visual Code projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visual Code projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
