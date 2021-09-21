@@ -74,6 +74,7 @@ namespace MijnGame14
     }
     class Vijandje : Plaatsbaar {
         public Vijandje() : base('R') { }
+        
             public  void beweeg(){
             var random=new Random();
             int r = random.Next(0,4);
