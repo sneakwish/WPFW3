@@ -22,3 +22,11 @@ C:\Users\wisha\Documents\VSCodeShit\WPFW3\WPFW3\obj\Debug\net5.0\Visual Code pro
 C:\Users\wisha\Documents\VSCodeShit\WPFW3\WPFW3\obj\Debug\net5.0\Visual Code projects.csproj.CoreCompileInputs.cache
 C:\Users\wisha\Documents\VSCodeShit\WPFW3\WPFW3\obj\Debug\net5.0\Visual Code projects.dll
 C:\Users\wisha\Documents\VSCodeShit\WPFW3\WPFW3\obj\Debug\net5.0\ref\Visual Code projects.dll
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.csproj.AssemblyReference.cache
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.AssemblyInfoInputs.cache
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.AssemblyInfo.cs
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.csproj.CoreCompileInputs.cache
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.dll
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\ref\Visual Code projects.dll
+C:\Users\wisha\Documents\VSCodeShit\WPFW3\obj\Debug\net5.0\Visual Code projects.pdb

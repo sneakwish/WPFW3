@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\WPFW3\\Visual Code projects.csproj",
+      "projectUniqueName": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\Visual Code projects.csproj",
       "projectName": "Visual Code projects",
-      "projectPath": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\WPFW3\\Visual Code projects.csproj",
+      "projectPath": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\Visual Code projects.csproj",
       "packagesPath": "C:\\Users\\wisha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\WPFW3\\obj\\",
+      "outputPath": "C:\\Users\\wisha\\Documents\\VSCodeShit\\WPFW3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wisha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
